@@ -1,4 +1,6 @@
 ## First Blog!
+You can read the full blog post here: Beyond Boarding Passes: The Data Chronicles of SFO’s Travelers - https://medium.com/@ap.8892/beyond-boarding-passes-the-data-chronicles-of-sfos-travelers-e3c2badfd222
+
 
 During my MS in Data Science, I wrote my first blog! It was an exciting accomplishment that marked a significant milestone in my journey. Here’s a brief summary of the blog:
 
@@ -12,9 +14,6 @@ During my MS in Data Science, I wrote my first blog! It was an exciting accompli
 	•	Detailed a specific project undertaken during the course, including objectives, methodologies, and results.
 	•	Emphasized the practical applications of data science and the impact of the project on real-world problems.
 
-This blog reflects my passion for data science and my dedication to mastering this dynamic field. I hope it inspires others to embark on their own data science journeys and explore the endless possibilities it offers.
-
-You can read the full blog post here: Beyond Boarding Passes: The Data Chronicles of SFO’s Travelers - https://medium.com/@ap.8892/beyond-boarding-passes-the-data-chronicles-of-sfos-travelers-e3c2badfd222
-
-To read and collaborate further on findings. Anticipating support :)
+This blog reflects my passion for data science and my dedication to mastering this dynamic field. I hope it inspires others to embark on their own data science journeys and explore the endless possibilities it offers. 
+Anticipating support :)
  
